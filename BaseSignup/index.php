@@ -14,7 +14,7 @@
         <section class="form signup">
             <header>Black Mark Chat </header>
             <form action="#" enctype="multipart/form-data">
-                <div class="error-text">This is an error message!</div>
+                <div class="error-txt">This is an error message!</div>
                 <div class="name-details">
                     <div class="field input">
                         <label>First Name</label>
